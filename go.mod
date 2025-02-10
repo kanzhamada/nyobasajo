@@ -1,6 +1,6 @@
 module latianuasgo
 
-go 1.2
+go 1.21.6
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
